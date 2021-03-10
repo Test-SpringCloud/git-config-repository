@@ -1,6 +1,6 @@
 #Application Config
 application:
-  listino: 100
+  listino: 1
 
 # ==============================================================
 # = Actuator Info
@@ -10,4 +10,4 @@ info:
     nome: "Nicola La Rocca"
   nome:
     nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
-  profilo: "List 100"
+  profilo: "List 1"
